@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Space Quiz</string>
+    <string name="question1">What is the name of a region where the gravity is so strong that not even light cannot escape its pull?</string>
+    <string name="question2">In which year was the first image of a Black Hole taken?</string>
+    <string name="question3">What are the two moons of mars?</string>
+    <string name="question4">"What is the name of the first man to land on the moon? ( Write the first and last name in all caps                eg: LUKE SKYWALKER)"</string>
+    <string name="q1option1">Worm Hole</string>
+    <string name="q1option2">Black Hole</string>
+    <string name="q1option3">White Hole</string>
+    <string name="q1option4">Neutron Star</string>
+    <string name="q2option1">1972</string>
+    <string name="q2option2">2014</string>
+    <string name="q2option3">1986</string>
+    <string name="q2option4">2019</string>
+    <string name="q3option1">Europa</string>
+    <string name="q3option2">Phobos</string>
+    <string name="q3option3">Titan</string>
+    <string name="q3option4">Deimos</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
